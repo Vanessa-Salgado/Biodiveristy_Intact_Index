@@ -21,7 +21,7 @@ Between 2001 and 2019, Maricopa County, located in the Phoenix metropolitan area
 # Map of Phoenix Subdivision
 Here is a map showing the Phoenix subdivision within an appropriate geographical context. You may use any vector datasets to create your map. 
 
-![Alt Text](Phoneix Census Subdivision.png)
+![Alt Text](map.png)
 # Assessing Biodiveristy Loss  
 
 Directly calculated the percentage of area of the Phoenix subdivision with a BII of at least 0.75 in 2017. Obtain the same calculation for 2020.
